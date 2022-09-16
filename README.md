@@ -55,3 +55,13 @@ We extracted the following features:
       * [CodeT5_small_sum](https://github.com/milica-skipina/ML-code-smell-detection/blob/main/data_class/data/embedded_datasets/T5_small_line_sum.pkl)
       * [CodeT5_small_avg](https://github.com/milica-skipina/ML-code-smell-detection/blob/main/data_class/data/embedded_datasets/T5_small_line_avg.pkl)
       * [CodeT5_small_class](https://github.com/milica-skipina/ML-code-smell-detection/blob/main/data_class/data/embedded_datasets/T5_small.pkl)
+
+## Results
+Jupyter notebooks evaluating the performance of all approaches:
+* [Feature Envy](https://github.com/milica-skipina/ML-code-smell-detection/blob/main/feature_envy/results/Results.ipynb)
+* [Data Class](https://github.com/milica-skipina/ML-code-smell-detection/blob/main/data_class/results/Results.ipynb)
+
+## Feature importance analysis
+Jupyter notebooks presenting the most important features of models trained over 51 trials using source code metrics:
+* [Feature Envy](https://github.com/milica-skipina/ML-code-smell-detection/blob/main/feature_envy/results/ML_metrics_Feature_Importance.ipynb)
+* [Data Class](https://github.com/milica-skipina/ML-code-smell-detection/blob/main/data_class/results/ML_metrics_Feature_Importance.ipynb)
