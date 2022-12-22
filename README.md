@@ -1,5 +1,5 @@
 # ML-code-smell-detection
-This repository contains the reproducibility package for the paper "Automatic detection of Feature Envy and Data Class code smells using machine learning techniques". We used the MLCQ dataset for Data Class and Feature Envy code smell detection in our experiments:
+This repository contains the reproducibility package for the paper [Automatic detection of Feature Envy and Data Class code smells using machine learning](https://www.techrxiv.org/articles/preprint/Automatic_detection_of_Feature_Envy_and_Data_Class_code_smells_using_machine_learning/21732059/1). We used the MLCQ dataset for Data Class and Feature Envy code smell detection in our experiments:
 
 Madeyski, L. and Lewowski, T., 2020. MLCQ: Industry-relevant code smell data set. In Proceedings of the Evaluation and Assessment in Software Engineering (pp. 342-347).
 
